@@ -1,6 +1,6 @@
 # Terpene synthase phylogeny in *Cannabis sativa*
 
-Phylogenetic analysis of the TPS gene family in *Cannabis sativa* using *Arabidopsis thaliana* as reference species. Sequences were retrieved from UniProt/Swiss-Prot and NCBI RefSeq, aligned with MAFFT, and the tree was inferred by maximum likelihood with PhyML 3.3.
+Phylogenetic analysis of the TPS gene family in *Cannabis sativa* using *Arabidopsis thaliana* as reference species. 
 
 ## Repository structure
 
